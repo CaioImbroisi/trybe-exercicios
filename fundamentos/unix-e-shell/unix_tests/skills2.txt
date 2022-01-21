@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+maca
+pera
+uva
+goiaba
+banana
