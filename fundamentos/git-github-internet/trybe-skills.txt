@@ -6,3 +6,4 @@ O que eu vou aprender na Trybe:
 - HTML
 - CSS
 - Self Skills
+- adicionando para conflito
