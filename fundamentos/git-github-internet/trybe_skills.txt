@@ -5,3 +5,4 @@
 - Git
 - HTML
 - CSS
+- Javascript
