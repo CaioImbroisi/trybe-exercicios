@@ -8,4 +8,4 @@ O que eu vou aprender na Trybe:
 - Self_Skills
 - PHP
 - Javascript
-- c++
+- C++
