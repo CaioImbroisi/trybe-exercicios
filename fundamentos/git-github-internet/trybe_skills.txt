@@ -5,7 +5,7 @@ O que eu vou aprender na Trybe:
 - Git
 - HTML
 - CSS
-- Self Skills
+- Self_Skills
 - PHP
 - Javascript
 - c++
