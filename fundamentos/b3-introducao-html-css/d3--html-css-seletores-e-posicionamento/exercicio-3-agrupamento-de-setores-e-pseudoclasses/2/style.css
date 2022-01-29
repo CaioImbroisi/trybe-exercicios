@@ -1,0 +1,38 @@
+div:hover {
+border:5px solid purple;
+}
+
+.primaria {
+background-color: blue;
+font-style:italic;
+
+}
+
+.secundaria {
+background-color: red;
+    
+}
+
+.complementar {
+background-color: green;
+font-size:120%;
+font-style:italic;
+        
+}
+
+.escura {
+    background-color: #666;
+            
+}
+
+.clara {
+    background-color: pink;
+    font-style:italic;
+            
+}
+
+h3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+
+}

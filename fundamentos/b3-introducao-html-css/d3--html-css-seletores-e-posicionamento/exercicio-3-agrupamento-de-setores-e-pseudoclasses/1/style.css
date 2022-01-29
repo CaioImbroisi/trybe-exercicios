@@ -1,0 +1,28 @@
+body {
+    background:black;
+    color:white;
+
+}
+
+h1, p {
+    text-align: center;
+}
+li:hover {
+
+    background:purple;
+}
+li:active {
+
+    background:orange;
+}
+li {
+    list-style: none;
+    
+}
+
+.exercicios{
+    text-align: left;
+    position:absolute;
+    bottom:300px;
+
+}
