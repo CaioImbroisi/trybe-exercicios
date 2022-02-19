@@ -1,0 +1,56 @@
+* {
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:rgb(194, 236, 253);
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0 10px 0;
+}
+
+main {
+    width:800px;
+    height: 500px;
+    margin: auto;
+    padding: 30 30 30 30;
+    border-radius: 10px;
+    background-color:rgb(225, 246, 255);
+}
+
+.radios {
+    margin: 20 0 15 5;
+}
+
+.text-area {
+    margin: 5 0 15 0;
+    width:100%;
+    resize:none;
+}
+
+.data {
+    margin: 5 0 15 0;
+}
+.button-position{
+    text-align: center;
+}
+.button{
+    font-size:18px;
+    padding:5px;
+    margin: 0 5 0 5
+}
+fieldset {
+    padding:40 40 80 40;
+}
+.name-email {
+    font-size: 14px;
+    width:200px;
+    height: 25px;
+    margin:0 0 5 0
+}
+
+.xD {
+    font-size:90px;
+}

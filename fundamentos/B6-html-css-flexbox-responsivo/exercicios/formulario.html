@@ -1,0 +1,44 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Formulario do sorteio</title>
+    
+</head>
+<body>
+    <h1>Concorra a uma Viagem!</h1>
+    <form>
+        <main>
+            <fieldset>
+            <label for="fullname">Nome:</label>
+            <input  type="text" name="fullname" placeholder="Digite seu nome completo" maxlength="40" minlength="10" required class="name-email"><br>
+            <label for="email">Email:</label>
+            <input  type="text" name="email" placeholder="Digite seu e-mail" maxlength="40" minlength="10" required class="name-email"><br>
+            <input type="radio" name="opcao" id="opcao-1" value="Marte" class="radios">
+            <label for="option">Marte</label>
+            <input type="radio" name="opcao" id="opcao-2" value="Júpiter" class="radios">
+            <label for="option">Júpiter</label>
+            <input type="radio" name="opcao" id="opcao-3" value="Sírius" class="radios">
+            <label  for="option">Sírius</label>
+            <input type="radio" name="opcao" id="opcao-4" value="Lua" class="radios">
+            <label  for="option">Lua</label><br>
+            <label for="pq">Por que você deveria ser a pessoa desenvolvedora escolhida pelo concurso TrybeTrip? </label><br>
+            <textarea name="pq" id="text-area" cols="30" rows="10" maxlength="500" class="text-area"></textarea><br>
+            <label for="data">Data:</label>
+            <input type="date" name="data" id="data" class="data" required><br>
+            <label for="marcacao-1">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
+            <input type="checkbox" name="marcacao-1" id="marcacao-1"><br>
+            <label for="marcacao-1">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
+            <input type="checkbox" name="marcacao-1" id="marcacao-1">
+        </fieldset>
+        </main>
+        <div class="button-position">
+        <button type="submit"class="button" id="submit-btn">Enviar</button>
+        <button type="reset"class="button">Apagar</button>
+        <div>
+    </form>
+</body>
+<script src="script.js"></script>
+</html>
